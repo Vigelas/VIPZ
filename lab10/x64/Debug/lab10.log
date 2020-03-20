@@ -1,0 +1,9 @@
+﻿  lab10.c
+E:\VIPZ\lab10\lab10.c(62,8): warning C4013: '_getch' undefined; assuming extern returning int
+  stMarkList.c
+E:\VIPZ\lab10\stMarkList.c(15,1): warning C4090: 'initializing': different 'const' qualifiers
+E:\VIPZ\lab10\stMarkList.c(29,6): warning C4013: 'free' undefined; assuming extern returning int
+E:\VIPZ\lab10\stMarkList.c(34,33): warning C4013: 'malloc' undefined; assuming extern returning int
+E:\VIPZ\lab10\stMarkList.c(34,51): warning C4312: 'type cast': conversion from 'int' to 'studList *' of greater size
+  Generating Code...
+  lab10.vcxproj -> E:\VIPZ\x64\Debug\lab10.exe
